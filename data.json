@@ -12,4 +12,8 @@
     "text":"Ctrl+Z: Undo an action, Ctrl+Y: Redo an action.",
     "about":"Commands to undo and redo an action in Microsoft Word"
   }
+  {
+    "text":"F12: Open the Save As dialog box, Ctrl+W: Close a document.",
+    "about":"Commands to openthe save as Dialog box  and close document in Microsoft Word"
+  }
 ]
