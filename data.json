@@ -3,4 +3,8 @@
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
   } 
+  {
+    "text": "double click on a word to highlight it and triple click on a sentenceto highlight it",
+    "about": "shortcuts to highlight word using double click and highlight sentence using triple click in Microsoft Word"
+  }
 ]
