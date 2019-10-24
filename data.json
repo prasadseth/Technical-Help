@@ -3,4 +3,8 @@
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
   } 
+  {
+    "text": "insert links into document using keyboard shortcuts",
+    "about": "ctrl+k shortcut used to insert links quickly in documents in MS Word"
+  }
 ]
