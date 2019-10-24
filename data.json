@@ -16,4 +16,9 @@
     "text":"F12: Open the Save As dialog box, Ctrl+W: Close a document.",
     "about":"Commands to openthe save as Dialog box  and close document in Microsoft Word"
   }
+  {
+    "text":"Alt+Ctrl+S: Split a window or remove the split view.",
+    "about":"Commands to split window in Microsoft Word"
+  }
 ]
+
