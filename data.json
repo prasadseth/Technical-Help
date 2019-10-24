@@ -7,4 +7,9 @@
     "text": "Ctrl+N: Create a new document,Ctrl+O: Open an existing document.",
     "about":"Commands to create new document and open existing documnet in Microsoft Word"
   }
+  
+  {
+    "text":"Ctrl+Z: Undo an action, Ctrl+Y: Redo an action.",
+    "about":"Commands to undo and redo an action in Microsoft Word"
+  }
 ]
