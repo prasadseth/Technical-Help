@@ -3,4 +3,8 @@
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
   } 
+  {
+    "text": "delete entire word at a time",
+    "about": "use ctrl+backspace to delete entire word at a time in MS Word"
+  }
 ]
