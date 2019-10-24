@@ -3,4 +3,8 @@
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
   } 
+  {
+    "text": "Copy cmd 'Ctrl + c' paste cmd 'Crtl + v' cut cmd 'Ctrl + z' ",
+    "about":"Copy, paste, and cut commands in Microsoft Word"
+  }
 ]
