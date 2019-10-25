@@ -2,5 +2,9 @@
   {
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
+  },
+  {
+    "text": "Ctrl + L",
+    "about":"Aligns the line or selected text to the left of the screen."
   } 
 ]
