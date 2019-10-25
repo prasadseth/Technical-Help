@@ -2,5 +2,9 @@
   {
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
+  };
+  {
+    "text": "After opening a document, to move to the location you were working in when the document was last closed",
+    "about":"Press Shift+F5 in MS Word."
   } 
 ]
