@@ -2,9 +2,17 @@
   {
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
-  } 
+  }, 
   {
     "text": "delete entire word at a time",
     "about": "use ctrl+backspace to delete entire word at a time in MS Word"
+  },
+  {
+    "text": "insert links into document using keyboard shortcuts",
+    "about": "ctrl+k shortcut used to insert links quickly in documents in MS Word"
+  },
+  {
+    "text": "use smart lookup to search the internet",
+    "about": "use smart lookup after you right click on the highlighted text to search the internet in Microsoft Word"
   }
 ]
