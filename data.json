@@ -1,18 +1,22 @@
 [
   {
-    "text": "Copy, paste, and cut with keyboard shortcuts",
-    "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
+    "Tip": "Copy, paste, and cut with keyboard shortcuts",
+    "Description": "Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
+  },
+  {
+    "Tip": "Copy, paste, and cut keyboard shortcuts in Microsoft Word",
+    "Description": "Copy command 'Ctrl + c' Paste command 'Crtl + v' Cut command 'Ctrl + z'
   }, 
   {
-    "text": "delete entire word at a time",
-    "about": "use ctrl+backspace to delete entire word at a time in MS Word"
+    "Tip": "Delete entire word using keyboard shortcut",
+    "Description": "Use Ctrl+Backspace to delete entire word in MS Word"
   },
   {
-    "text": "insert links into document using keyboard shortcuts",
-    "about": "ctrl+k shortcut used to insert links quickly in documents in MS Word"
+    "Tip": "Insert links into document using keyboard shortcut",
+    "Description": "Ctrl+k shortcut used to insert links quickly in documents in MS Word"
   },
   {
-    "text": "use smart lookup to search the internet",
-    "about": "use smart lookup after you right click on the highlighted text to search the internet in Microsoft Word"
+    "Tip": "Use smart lookup to search the internet",
+    "Description": "Use smart lookup after you right click on the highlighted text to search the internet in Microsoft Word"
   }
 ]
