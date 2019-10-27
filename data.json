@@ -2,23 +2,49 @@
   {
     "text": "Copy, paste, and cut with keyboard shortcuts",
     "about":"Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
-  } 
+  },
   {
-    "text": "Ctrl+N: Create a new document,Ctrl+O: Open an existing document.",
+    "text": "Ctrl+N: Create a new document,Ctrl+O: Open an existing document",
     "about":"Commands to create new document and open existing documnet in Microsoft Word"
-  }
-  
+  },
   {
-    "text":"Ctrl+Z: Undo an action, Ctrl+Y: Redo an action.",
+    "text":"Ctrl+Z: Undo an action, Ctrl+Y: Redo an action",
     "about":"Commands to undo and redo an action in Microsoft Word"
-  }
+  },
   {
-    "text":"F12: Open the Save As dialog box, Ctrl+W: Close a document.",
+    "text":"F12: Open the Save As dialog box, Ctrl+W: Close a document",
     "about":"Commands to openthe save as Dialog box  and close document in Microsoft Word"
-  }
+  },
   {
-    "text":"Alt+Ctrl+S: Split a window or remove the split view.",
+    "text":"Alt+Ctrl+S: Split a window or remove the split view",
     "about":"Commands to split window in Microsoft Word"
+  },
+  {
+    "Tip": "Copy, paste, and cut with keyboard shortcuts",
+    "Description": "Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
+  }, 
+  {
+    "Tip": "Keyboard shortcut to scroll up and down in Microsoft Word",
+    "Description": "Use Up/Down Arrow Keys to move up or down one line"
+  },
+  {
+    "Tip": "Copy, paste, and cut with keyboard shortcuts",
+    "Description": "Copy, paste, and cut with keyboard shortcuts in Microsoft Word"
+  },
+  {
+    "Tip": "Copy, paste, and cut keyboard shortcuts in Microsoft Word",
+    "Description": "Copy command 'Ctrl + c' Paste command 'Crtl + v' Cut command 'Ctrl + z'
+  }, 
+  {
+    "Tip": "Delete entire word using keyboard shortcut",
+    "Description": "Use Ctrl+Backspace to delete entire word in MS Word"
+  },
+  {
+    "Tip": "Insert links into document using keyboard shortcut",
+    "Description": "Ctrl+k shortcut used to insert links quickly in documents in MS Word"
+  },
+  {
+    "Tip": "Use smart lookup to search the internet",
+    "Description": "Use smart lookup after you right click on the highlighted text to search the internet in Microsoft Word"
   }
 ]
-
